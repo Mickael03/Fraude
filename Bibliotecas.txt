@@ -1,6 +1,5 @@
 Versões da Bibliotecas utilizadas na construção do Notebook
 
 Versão Matplotlib: 3.5.2
-Versão pycaret: 2.3.10
 Versão pandas: 1.4.3
 Versão numpy: 1.19.5
